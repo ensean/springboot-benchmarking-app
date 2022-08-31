@@ -6,6 +6,7 @@
 ### 接口
 
 * path: `/echo`： 返回字符串
+* path: `/pi?steps=xx`: 蒙特卡罗计算PI
 
 ### 压测工具
 
